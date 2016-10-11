@@ -1,0 +1,6 @@
+global-styling:
+  version: 1.x
+  js:
+    js/jquery-ahm.min.js: {}
+
+

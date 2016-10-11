@@ -1,0 +1,7 @@
+ahm_page:
+ path: '/admin/config/system/ahm'
+ defaults:
+   _form: 'Drupal\ahm\Form\AhmForm'
+   _title: 'jQuery ahm'
+ requirements:
+   _permission: 'administer site configuration'

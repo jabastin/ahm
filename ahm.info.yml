@@ -1,0 +1,5 @@
+name: jQuery ahm
+type: module
+configure: ahm_page
+description: 'Add jQuery AHM plugin to the site'
+core: '8.x'
